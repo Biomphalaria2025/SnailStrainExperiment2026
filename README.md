@@ -1,6 +1,6 @@
 # SnailStrainExperiment2026
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21629522.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.21629522)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21629522.svg)](https://doi.org/10.5281/zenodo.21629522)
 
 Snail experiment paper on _Biomphalaria glabrata_ strains infected with _Schistosoma mansoni_
 
